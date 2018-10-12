@@ -1,3 +1,5 @@
+alert("hello");
+
 var gameboard = document.querySelector("#gameboard");
 
 // timer code
