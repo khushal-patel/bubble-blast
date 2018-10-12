@@ -1,4 +1,4 @@
-alert("Welcome! <br> game rules are:- <br> 1. See the number written in the target section. <br> 2. hit that number bubble and score 10 points for each correct hit.");
+alert("Welcome! \n game rules are:- \n 1. See the number written in the target section. \n 2. Hit that number bubble and score 10 points for each correct hit. \n 3. And if you cannot find that number, press SKIP.");
 
 var gameboard = document.querySelector("#gameboard");
 
