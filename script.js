@@ -1,4 +1,4 @@
-alert("hello");
+alert("Welcome! <br> game rules are:- <br> 1. See the number written in the target section. <br> 2. hit that number bubble and score 10 points for each correct hit.");
 
 var gameboard = document.querySelector("#gameboard");
 
